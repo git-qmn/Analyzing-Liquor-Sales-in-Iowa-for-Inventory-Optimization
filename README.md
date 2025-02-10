@@ -13,7 +13,7 @@ The project utilizes liquor sales data from Iowa to optimize inventory managemen
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/git-qmn/Analyzing-Liquor-Sales-in-Iowa-for-Inventory-Optimization.git
 ```
 2. Install dependencies:
 ```bash
