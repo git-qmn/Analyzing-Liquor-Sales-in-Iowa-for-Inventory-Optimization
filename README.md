@@ -31,7 +31,7 @@ jupyter notebook
 ## Methodology
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Machine Learning Model
+- Machine Learning Models To Predict Sales
 
 ## Contribution
 Contributions are welcome! Please follow these steps:
